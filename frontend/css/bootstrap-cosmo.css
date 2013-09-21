@@ -3447,7 +3447,7 @@ input[type="button"].btn-block {
   margin-bottom: 1px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar-right .dropdown-menu {
     right: 0;
     left: auto;
@@ -4297,7 +4297,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   clear: both;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar {
     border-radius: 0;
   }
@@ -4353,7 +4353,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   clear: both;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar-header {
     float: left;
   }
@@ -4423,7 +4423,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   overflow-y: auto;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar-collapse {
     width: auto;
     border-top: 0;
@@ -4455,7 +4455,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   margin-left: -15px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .container > .navbar-header,
   .container > .navbar-collapse {
     margin-right: 0;
@@ -4467,7 +4467,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-width: 0 0 1px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar-static-top {
     border-radius: 0;
   }
@@ -4481,7 +4481,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-width: 0 0 1px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar-fixed-top,
   .navbar-fixed-bottom {
     border-radius: 0;
@@ -4510,7 +4510,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   text-decoration: none;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar > .container .navbar-brand {
     margin-left: -15px;
   }
@@ -4539,7 +4539,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   margin-top: 4px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar-toggle {
     display: none;
   }
@@ -4555,7 +4555,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   line-height: 21px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1150px) {
   .navbar-nav .open .dropdown-menu {
     position: static;
     float: none;
@@ -4578,7 +4578,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar-nav {
     float: left;
     margin: 0;
@@ -4592,7 +4592,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar-left {
     float: left !important;
   }
@@ -4613,7 +4613,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
           box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar-form .form-group {
     display: inline-block;
     margin-bottom: 0;
@@ -4636,13 +4636,13 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1150px) {
   .navbar-form .form-group {
     margin-bottom: 5px;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar-form {
     width: auto;
     padding-top: 0;
@@ -4683,7 +4683,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   margin-bottom: 14.5px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1150px) {
   .navbar-text {
     margin-right: 15px;
     margin-left: 15px;
@@ -4776,7 +4776,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-bottom-color: #ffffff;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1150px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #ffffff;
   }
@@ -4892,7 +4892,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-bottom-color: #ffffff;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1150px) {
   .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
     border-color: #0066cc;
   }
